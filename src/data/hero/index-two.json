@@ -1,0 +1,14 @@
+[
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Discover Your Perfect Home with Us",
+    "Desc": "Explore a wide range of properties tailored to meet your needs and preferences. Our experienced agents are here to guide you through every step of the buying process.",
+    "icon": "FaHome",
+    "heroimage": "61.jpg",
+    "id": "1",
+    "buttonText": "Contact Us Today",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  }
+]

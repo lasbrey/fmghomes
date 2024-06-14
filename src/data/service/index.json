@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Buy a Home",
+    "shortDescription": "Browse our extensive selection of homes available for sale. Let us help you find your perfect match.",
+    "fullDescription": "Finding your dream home has never been easier. Our extensive database features a wide variety of homes to suit every taste and budget. Our experienced agents are here to help you through every step of the buying process, ensuring you find the perfect place to call home.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Discover Your Dream Home",
+      "captionFullDescription": "Our platform provides detailed information and beautiful images of each property, helping you envision your future home. From modern apartments to spacious family houses, we have it all.",
+      "captionShortDescription": "Explore our comprehensive listings and find the home that meets all your needs and desires."
+    },
+    "thumbImage": "21.jpg",
+    "img": "21.png",
+    "id": "01",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-house",
+    "category": ["buying", "homes"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Rent a Home",
+    "shortDescription": "Explore our extensive list of homes for rent. We can help you find a property that suits your needs.",
+    "fullDescription": "Whether you're looking for a short-term rental or a long-term lease, our website offers a variety of rental properties to choose from. Our team is dedicated to helping you find a home that meets your needs and fits your budget.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Comfortable Living Spaces",
+      "captionFullDescription": "We offer a wide range of rental properties, from cozy apartments to spacious houses. Each listing includes detailed information and photos to help you make an informed decision.",
+      "captionShortDescription": "Find the perfect rental property with our easy-to-use search tools and comprehensive listings."
+    },
+    "thumbImage": "21.jpg",
+    "img": "22.png",
+    "id": "02",
+    "buttonText": "Find A Home",
+    "active": true,
+    "icon": "flaticon-house-3",
+    "category": ["buying", "homes"],
+    "featured": true,
+    "coreFeature": false
+  },
+  {
+    "title": "Installment Buying",
+    "shortDescription": "Take advantage of our installment buying options to make home ownership more affordable and achievable.",
+    "fullDescription": "Our installment buying program allows you to purchase your dream home with flexible payment plans. This option makes home ownership accessible to more people by spreading the cost over time.",
+    "captions": {
+      "image1": "31.jpg",
+      "image2": "32.jpg",
+      "caption": "Flexible Payment Options",
+      "captionFullDescription": "Our installment plans are designed to fit your budget and lifestyle, making it easier to manage your finances while owning a home.",
+      "captionShortDescription": "Learn more about our installment buying program and find the perfect plan for you."
+    },
+    "thumbImage": "21.jpg",
+    "img": "23.png",
+    "id": "03",
+    "buttonText": "Find A Home",
+    "active": false,
+    "icon": "flaticon-deal-1",
+    "category": ["buying", "homes"],
+    "featured": true,
+    "coreFeature": false
+  }
+]

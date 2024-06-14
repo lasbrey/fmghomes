@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "title": "Residential Properties",
+    "description": "Wide range of residential properties available for purchase.",
+    "icon": "flaticon-car"
+  },
+  {
+    "id": "02",
+    "title": "Land for Sale",
+    "description": "Prime land plots available for development and investment.",
+    "icon": "flaticon-swimming"
+  },
+  {
+    "id": "03",
+    "title": "Land Banking",
+    "description": "Strategic land banking services to maximize your investment.",
+    "icon": "flaticon-secure-shield"
+  },
+  {
+    "id": "04",
+    "title": "Property Management",
+    "description": "Comprehensive property management services for your convenience.",
+    "icon": "flaticon-stethoscope"
+  },
+  {
+    "id": "05",
+    "title": "Real Estate Consulting",
+    "description": "Expert real estate consulting to help you make informed decisions.",
+    "icon": "flaticon-book"
+  },
+  {
+    "id": "06",
+    "title": "Financing Assistance",
+    "description": "Financing options and assistance available to ease your purchase process.",
+    "icon": "flaticon-bed-1"
+  },
+  {
+    "id": "07",
+    "title": "Custom Home Building",
+    "description": "Build your dream home with our custom home building services.",
+    "icon": "flaticon-home-2"
+  },
+  {
+    "id": "08",
+    "title": "Investment Opportunities",
+    "description": "Exclusive real estate investment opportunities to grow your wealth.",
+    "icon": "flaticon-slider"
+  }
+]

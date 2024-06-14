@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Jacob William",
+    "type": "Selling Agent",
+    "img": "1.jpg",
+    "description": "As a selling agent, I've seen a significant increase in clients interested in installmental buying plans. It offers a fantastic way for buyers to manage their finances while still securing their dream home. The process is straightforward, and buyers appreciate the flexibility it provides. It’s a win-win situation for both parties involved."
+  },
+  {
+    "id": "2",
+    "name": "Kelian Anderson",
+    "type": "Selling Agent",
+    "img": "2.jpg",
+    "description": "Installmental buying has revolutionized the real estate market. Many of my clients who couldn't afford a lump sum payment have successfully purchased homes through installment plans. It breaks down the financial barriers and opens up opportunities for a broader range of buyers. This approach has definitely increased my sales and client satisfaction."
+  },
+  {
+    "id": "3",
+    "name": "Adam Joseph",
+    "type": "Selling Agent",
+    "img": "3.jpg",
+    "description": "Real estate through installmental buying is a game-changer. Clients love the option to spread out payments without the pressure of a massive initial down payment. It also allows them to invest in higher-value properties that they might not have considered otherwise. This method has proven to be beneficial for both the buyers and the sellers."
+  },
+  {
+    "id": "4",
+    "name": "James Carter",
+    "type": "Selling Agent",
+    "img": "4.jpg",
+    "description": "Installmental buying options have significantly improved the accessibility of real estate. Many buyers find it easier to budget and plan their finances with monthly installments rather than a single large payment. This has increased the number of successful transactions and has provided a stable income flow for sellers as well. It’s an excellent approach for anyone looking to purchase property without financial strain."
+  }
+]
