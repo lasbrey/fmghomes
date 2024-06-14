@@ -8,7 +8,7 @@ import TitleSection from "@/components/titleSection";
 import Feature from "@/components/features";
 import featuresData from "@/data/service";
 import AboutUsSectionOne from "@/components/aboutUs/aboutUsSectionOne";
-import HeroSectionStyleEight from "@/components/hero/styleEight";
+// import HeroSectionStyleEight from "@/components/hero/styleEight";
 import AboutUsSectionTwo from "@/components/aboutUs/aboutUsSectionTwo";
 import UpCommingcarousel from "@/components/upCommingCarousel";
 import PropertyItem from "@/components/product/properties";
@@ -195,7 +195,7 @@ function HomeVersionNine(props) {
       />
       {/* <!-- SLIDER AREA START (slider-11) --> */}
       <div className="ltn__slider-area ltn__slider-11 section-bg-1">
-        <HeroSectionStyleEight />
+        {/* <HeroSectionStyleEight /> */}
       </div>
 
       <div className="ltn__about-us-area pt-115 pb-100 ">

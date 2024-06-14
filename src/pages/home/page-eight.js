@@ -7,7 +7,7 @@ import { getProducts, productSlug, getDiscountPrice } from "@/lib/product";
 import TitleSection from "@/components/titleSection";
 import Feature from "@/components/features";
 import featuresData from "@/data/service";
-import HeroSectionStyleSeven from "@/components/hero/styleSeven";
+// import HeroSectionStyleSeven from "@/components/hero/styleSeven";
 import AboutUsSectionTwo from "@/components/aboutUs/aboutUsSectionTwo";
 import UpCommingcarousel from "@/components/upCommingCarousel";
 import PropertyItem from "@/components/product/properties";
@@ -237,9 +237,9 @@ function HomeVersionEight(props) {
         onClose={() => setOpen(false)}
       />
       {/* <!-- SLIDER AREA START (slider-11) --> */}
-      <div className="ltn__slider-area ltn__slider-11 section-bg-1">
+      {/* <div className="ltn__slider-area ltn__slider-11 section-bg-1">
         <HeroSectionStyleSeven />
-      </div>
+      </div> */}
 
       <div className="ltn__product-slider-area ltn__product-gutter pt-115 pb-90 plr--7">
         <Container>

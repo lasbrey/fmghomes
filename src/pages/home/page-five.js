@@ -5,9 +5,9 @@ import { Container, Row, Col, Nav, Tab } from "react-bootstrap";
 import Slider from "react-slick";
 import { FaArrowRight, FaArrowLeft } from "react-icons/fa";
 import { LayoutFour } from "@/layouts";
-import HeroSectionStyleFive from "@/components/hero/styleFive";
+// import HeroSectionStyleFive from "@/components/hero/styleFive";
 import AboutUsStyleOne from "@/components/aboutUs/aboutUsStyleOne";
-import AboutUsStyleTwo from "@/components/aboutUs/aboutUsStyleTwo";
+// import AboutUsStyleTwo from "@/components/aboutUs/aboutUsStyleTwo";
 import CounterUp from "@/components/counterUp";
 import Feature from "@/components/features";
 import TitleSection from "@/components/titleSection";
@@ -149,7 +149,7 @@ function HomePageFive(props) {
     return (
         <>
             <LayoutFour topbar={false}>
-                <HeroSectionStyleFive />
+                {/* <HeroSectionStyleFive /> */}
 
                 {/* <!-- ABOUT US AREA START -->  */}
                 <AboutUsStyleOne sectionSpace="pt-120 pb-90" />
@@ -160,7 +160,7 @@ function HomePageFive(props) {
                 {/* <!-- COUNTER UP AREA END -->
 
       <!-- ABOUT US AREA START --> */}
-                <AboutUsStyleTwo sectionSpace="pt-120 pb-90" />
+                {/* <AboutUsStyleTwo sectionSpace="pt-120 pb-90" /> */}
                 {/* <!-- ABOUT US AREA END -->
 
       <!-- FEATURE AREA START ( Feature - 6) --> */}

@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import { getProducts, productSlug } from "@/lib/product";
 import TitleSection from "@/components/titleSection";
 import featuresData from "@/data/service";
-import HeroSectionStyleFour from "@/components/hero/styleFour";
+// import HeroSectionStyleFour from "@/components/hero/styleFour";
 import { FaArrowLeft, FaArrowRight, FaPlay, FaRegComments } from "react-icons/fa";
 import ModalVideo from "react-modal-video";
 import blogData from "@/data/blog";
@@ -198,7 +198,7 @@ function HomeVersionFour(props) {
         onClose={() => setOpen(false)}
       />
       {/* <!-- SLIDER AREA START (slider-11) --> */}
-      <HeroSectionStyleFour />
+      {/* <HeroSectionStyleFour /> */}
       {/* <!-- SLIDER AREA END --> */}
       <CarDealerSearchForm navMenuClass="d-none" customClasses="home-four-cardealer" />
       {/* <!-- CAR DEALER FORM AREA END --> */}
