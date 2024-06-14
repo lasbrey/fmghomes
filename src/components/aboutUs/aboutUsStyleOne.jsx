@@ -23,7 +23,7 @@ const AboutUsStyleOne = ({ sectionSpace }) => {
                     About Us
                   </h6>
                   <h1 className="section-title">
-                    The Leading Real Estate Rental Marketplace<span>.</span>
+                    The Leading Real Estate Rental Marketplace.<span></span>
                   </h1>
                   <p>
                     We are dedicated to redefining the real estate experience
