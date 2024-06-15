@@ -8,7 +8,7 @@ import ShopBreadCrumb from "@/components/breadCrumbs/shop";
 import BlogItem from "@/components/blog";
 import blogData from "@/data/blog";
 import CallToAction from "@/components/callToAction";
-import AboutUsStyletwo from "@/components/aboutUs/aboutUsStyleTwo";
+// import AboutUsStyletwo from "@/components/aboutUs/aboutUsStyleTwo";
 import Feature from "@/components/features";
 import featureData from "@/data/service"
 
@@ -61,7 +61,7 @@ function Service() {
           currentSlug="Service"
         />
 
-        <AboutUsStyletwo sectionSpace="pb-90" />
+        {/* <AboutUsStyletwo sectionSpace="pb-90" /> */}
 
         <Feature
           classes="section-bg-1"
